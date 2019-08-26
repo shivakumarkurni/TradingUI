@@ -1,16 +1,4 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
 
 .trade-nav {
   background: #E0FFFF;
@@ -25,7 +13,32 @@ code {
   border-bottom: 1px solid red;
   margin-bottom: 30px;
 }
-
 .tab-list{
   padding: 8px !important;
+}
+.ing-title{
+  float: right !important;
+  margin-left: 50px;
+  color: orange;
+}
+.confirm-btn{
+  float: right;
+  margin: 0 10px;
+}
+.cancel-btn{
+  float: right;
+  margin: 0px 20px;
+}
+.box-cont{
+  border: 1px solid red;
+  padding: 50px;
+}
+
+.graph{
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.cancel-btn{
+  margin-bottom: 30px !important;
 }

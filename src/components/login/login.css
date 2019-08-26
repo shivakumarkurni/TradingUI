@@ -1,0 +1,194 @@
+.login-btn{
+    margin-top:30px 0 !important;
+  }
+
+  .box-cont {
+      height:350px;
+  }
+
+
+
+.form-signin
+{
+    max-width: 330px;
+    
+}
+.form-signin .form-signin-heading, .form-signin .checkbox
+{
+    margin-bottom: 10px;
+}
+.form-signin .checkbox
+{
+    font-weight: normal;
+}
+.form-signin .form-control
+{
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus
+{
+    z-index: 2;
+}
+.form-signin input[type="text"]
+{
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"]
+{
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.account-wall
+{
+    margin-top: 20px;
+    padding: 40px 0px 20px 0px;
+    background-color: #f7f7f7;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+.login-title
+{
+    color: #555;
+    font-size: 18px;
+    font-weight: 400;
+    display: block;
+}
+.profile-img
+{
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.need-help
+{
+    margin-top: 10px;
+}
+.new-account
+{
+    display: block;
+    margin-top: 10px;
+}
+
+
+.nav-header-link {
+    float:right;
+}
+
+.nav-subtitle {
+    margin-left: 235px;
+    
+}
+
+.navbar-brand{
+    font-size:12px !important; 
+    color: #444444;
+    letter-spacing: -0.4px;
+    font-family: "ING Me Regular";
+}
+
+.login-sub-title {
+    font-family: "ING Me Regular";
+    font-size: 14px;
+    line-height: 1.57142857;
+    color: #444444;
+    /* background-color: #ffffff; */
+    letter-spacing: -0.4px;
+    -webkit-font-smoothing: antialiased;
+    text-align: left;
+    padding:0;
+}
+
+.login-tag-title{
+font-size: 13px;
+color: #525199;
+}
+
+.reg-title {
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 1.1;
+    color: inherit;
+    color: #444;
+    font-weight: bold;
+    text-align: left;
+}
+
+.reg-field{
+    margin-bottom: 15px !important;
+}
+
+.reg-main-title{
+    font-size: 3.4rem;
+    line-height: 1.2;
+    padding-right: 46px;
+}
+
+.footer-area {
+    background-color: #f60;
+    padding:30px 0;
+    margin:50px 0;
+}
+
+
+
+tr.header-text{
+    padding-left: 31px !important;
+}
+
+
+#register, #login {
+    width: 300px;
+    border: 1px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 16px;
+    color: #333333;
+    font-size: 14px;
+    background: #ffffff;
+    margin: 100px auto;
+  }
+  
+  form label, form input {
+    display: block;
+    /* margin-bottom: 10px; */
+    width: 90%
+  }
+  
+  form input {
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+  
+  }
+  
+  .button {
+    background-color: #00BFFF;
+    border-color: #3ac162;
+    font-weight: bold;
+    padding: 12px 15px;
+    color: #ffffff;
+  }
+  
+  .errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+  }
+  
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
